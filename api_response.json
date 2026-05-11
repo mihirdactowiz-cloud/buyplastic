@@ -1,0 +1,2954 @@
+{
+    "data": {
+        "site": {
+            "product": {
+                "entityId": 1164,
+                "name": "King StarBoard WG, Woodgrain HDPE Plastic Sheet",
+                "variants": {
+                    "edges": [
+                        {
+                            "node": {
+                                "entityId": 16461,
+                                "sku": "PLA-037-001",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18849_source_1690561177.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 24.04,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 24.04,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16462,
+                                "sku": "PLA-037-002",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18850_source_1690561177.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 40.32,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 40.32,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16463,
+                                "sku": "PLA-037-003",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18851_source_1690561177.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16464,
+                                "sku": "PLA-037-004",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18852_source_1690561177.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16465,
+                                "sku": "PLA-037-005",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18853_source_1690561178.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16466,
+                                "sku": "PLA-037-006",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18854_source_1690561177.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 125.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 125.0,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16467,
+                                "sku": "PLA-037-007",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18855_source_1710204624.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 32.49,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 32.49,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16468,
+                                "sku": "PLA-037-008",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18856_source_1710204624.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 55.15,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 55.15,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16469,
+                                "sku": "PLA-037-009",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18857_source_1710204624.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16470,
+                                "sku": "PLA-037-010",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18858_source_1710204624.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16471,
+                                "sku": "PLA-037-011",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18859_source_1710204625.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 140.63,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 140.63,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16472,
+                                "sku": "PLA-037-012",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18860_source_1710204625.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 187.5,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 187.5,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16473,
+                                "sku": "PLA-037-013",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18861_source_1690561178.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 24.04,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 24.04,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16474,
+                                "sku": "PLA-037-014",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18862_source_1710204625.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 40.32,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 40.32,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16475,
+                                "sku": "PLA-037-015",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18863_source_1710204625.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16476,
+                                "sku": "PLA-037-016",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18864_source_1710204625.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16477,
+                                "sku": "PLA-037-017",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18865_source_1710204625.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16478,
+                                "sku": "PLA-037-018",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18866_source_1710204625.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 125.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 125.0,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16479,
+                                "sku": "PLA-037-019",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18867_source_1710204625.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 32.49,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 32.49,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16480,
+                                "sku": "PLA-037-020",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18868_source_1710204626.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 55.15,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 55.15,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16481,
+                                "sku": "PLA-037-021",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18869_source_1710204626.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16482,
+                                "sku": "PLA-037-022",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18870_source_1710204626.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16483,
+                                "sku": "PLA-037-023",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18871_source_1710204626.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 140.63,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 140.63,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16484,
+                                "sku": "PLA-037-024",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18872_source_1710204626.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 187.5,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 187.5,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16485,
+                                "sku": "PLA-037-025",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18873_source_1690561179.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 24.04,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 24.04,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16486,
+                                "sku": "PLA-037-026",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18874_source_1710204626.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 40.32,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 40.32,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16487,
+                                "sku": "PLA-037-027",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18875_source_1710204626.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16488,
+                                "sku": "PLA-037-028",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18876_source_1710204627.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16489,
+                                "sku": "PLA-037-029",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18877_source_1710204627.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16490,
+                                "sku": "PLA-037-030",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18878_source_1710204627.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 125.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 125.0,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16491,
+                                "sku": "PLA-037-031",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18879_source_1710204627.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 32.49,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 32.49,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16492,
+                                "sku": "PLA-037-032",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18880_source_1710204627.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 55.15,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 55.15,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16493,
+                                "sku": "PLA-037-033",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18881_source_1710204627.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16494,
+                                "sku": "PLA-037-034",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18882_source_1710204627.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16495,
+                                "sku": "PLA-037-035",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18883_source_1710204627.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 140.63,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 140.63,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16496,
+                                "sku": "PLA-037-036",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18884_source_1710204627.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 187.5,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 187.5,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16497,
+                                "sku": "PLA-037-037",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18885_source_1690561180.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 24.04,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 24.04,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16498,
+                                "sku": "PLA-037-038",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18886_source_1710204628.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 40.32,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 40.32,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16499,
+                                "sku": "PLA-037-039",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18887_source_1710204628.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16500,
+                                "sku": "PLA-037-040",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18888_source_1710204628.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16501,
+                                "sku": "PLA-037-041",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18889_source_1710204628.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16502,
+                                "sku": "PLA-037-042",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18890_source_1710204628.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 125.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 125.0,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16503,
+                                "sku": "PLA-037-043",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18891_source_1710204629.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 32.49,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 32.49,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16504,
+                                "sku": "PLA-037-044",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18892_source_1710204629.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 55.15,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 55.15,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16505,
+                                "sku": "PLA-037-045",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18893_source_1710204629.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16506,
+                                "sku": "PLA-037-046",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18894_source_1710204629.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16507,
+                                "sku": "PLA-037-047",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18895_source_1710204629.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 140.63,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 140.63,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16508,
+                                "sku": "PLA-037-048",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18896_source_1710204629.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 187.5,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 187.5,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16509,
+                                "sku": "PLA-037-049",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18897_source_1690589367.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 24.04,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 24.04,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16510,
+                                "sku": "PLA-037-050",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18898_source_1710204629.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 40.32,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 40.32,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16511,
+                                "sku": "PLA-037-051",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18899_source_1710204629.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16512,
+                                "sku": "PLA-037-052",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18900_source_1710204630.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 69.44,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16513,
+                                "sku": "PLA-037-053",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18901_source_1710204630.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16514,
+                                "sku": "PLA-037-054",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18902_source_1710204630.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 125.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 125.0,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16515,
+                                "sku": "PLA-037-055",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18903_source_1710204630.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 32.49,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 32.49,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16516,
+                                "sku": "PLA-037-056",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18904_source_1710204630.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 55.15,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 55.15,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16517,
+                                "sku": "PLA-037-057",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18905_source_1710204630.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16518,
+                                "sku": "PLA-037-058",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18906_source_1710204630.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 97.4,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": false
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16519,
+                                "sku": "PLA-037-059",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18907_source_1710204630.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 140.63,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 140.63,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 16520,
+                                "sku": "PLA-037-060",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/18908_source_1710204631.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 187.5,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 187.5,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 17871,
+                                "sku": "PLA-037-A01",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/19995_source_1711186291.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 416.67,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 416.67,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 17872,
+                                "sku": "PLA-037-A02",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/19996_source_1711359445.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 625.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 625.0,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 17873,
+                                "sku": "PLA-037-A03",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/19997_source_1711186289.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 416.67,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 416.67,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 17874,
+                                "sku": "PLA-037-A04",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/19998_source_1711186289.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 625.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 625.0,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 17875,
+                                "sku": "PLA-037-A05",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/19999_source_1711186284.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 416.67,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 416.67,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 17876,
+                                "sku": "PLA-037-A06",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/20000_source_1711186167.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 625.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 625.0,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 17877,
+                                "sku": "PLA-037-A07",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/20001_source_1711186290.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 416.67,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 416.67,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 17878,
+                                "sku": "PLA-037-A08",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/20002_source_1711186286.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 625.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 625.0,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 17879,
+                                "sku": "PLA-037-A09",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/20003_source_1711186288.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 416.67,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 416.67,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": true
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        },
+                        {
+                            "node": {
+                                "entityId": 17880,
+                                "sku": "PLA-037-A10",
+                                "defaultImage": {
+                                    "url": "https://cdn11.bigcommerce.com/s-800ahmh2gx/images/stencil/500w/attribute_rule_images/20004_source_1711186286.jpg"
+                                },
+                                "prices": {
+                                    "price": {
+                                        "value": 625.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "salePrice": null,
+                                    "basePrice": {
+                                        "value": 625.0,
+                                        "currencyCode": "USD"
+                                    }
+                                },
+                                "inventory": {
+                                    "isInStock": false
+                                },
+                                "productOptions": {
+                                    "edges": [
+                                        {
+                                            "node": {
+                                                "displayName": "Color"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Thickness"
+                                            }
+                                        },
+                                        {
+                                            "node": {
+                                                "displayName": "Nominal Size"
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
